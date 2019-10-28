@@ -5,6 +5,7 @@ export default function Navigation () {
     return (
         <div className="nav">
             <div className="links">
+                Hello!
             </div>
         </div>
     )
